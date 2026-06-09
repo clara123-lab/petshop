@@ -32,5 +32,3 @@ Este é um projeto de demonstração de um sistema/site para um Pet Shop, desenv
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-Desenvolvido com ❤️ por Manus AI.
